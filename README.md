@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=educatalan02&show_icons=true&locale=en" alt="educatalan02" /></p>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=educatalan02&repo=educatalan02)](https://github.com/educatalan02/educatalan02)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
