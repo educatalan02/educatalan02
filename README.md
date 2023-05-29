@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm educatalan02</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=educatalan02&label=Profile%20views&color=0e75b6&style=flat" alt="educatalan02" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=educatalan02&show_icons=true&locale=en" alt="educatalan02" /></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=educatalan02&repo=educatalan02)](https://github.com/educatalan02/educatalan02)
 
