@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Spain</h3>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=educatalan02&repo=educatalan02)](https://github.com/educatalan02/educatalan02)
+[![Readme Card](https://educatalan02-stats-e73ztvzmc-educatalan02.vercel.app/api/pin/?username=educatalan02&repo=educatalan02)](https://github.com/educatalan02/educatalan02)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
