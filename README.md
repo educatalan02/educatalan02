@@ -88,7 +88,7 @@ A passionate developer from Spain</div>
 
 
 ## Github Stats  
-[![States](https://github-readme-stats.vercel.app/api/wakatime?username=educatalan02)](https://github.com/anuraghazra/github-readme-stats)
+[![States](https://github-readme-stats.vercel.app/api/wakatime?username=@educatalan02)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
