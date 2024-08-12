@@ -2,15 +2,6 @@
 A passionate developer from Spain</div>  
   
 
-- 🌱 I’m currently learning Flutter  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-- 🙃 I am currently completing the final year of my Higher Education in 'Multiplatform Application Development' at IES Segundo de Chomón  
-  
-
 <br/>  
 
 
